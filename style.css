@@ -1,0 +1,50 @@
+body{
+  text-align:center;
+   background:#5FA185;
+}
+
+h1{
+  color:#1A3357;
+  border-style:solid;
+  border-color:white;
+  border-width:2px;
+  padding:10px;  
+}
+
+a{
+  color:#083A52;
+  font-size:20px;
+  border-style:solid;
+  border-color:White;
+  border-width:2px;
+  padding:10px;
+  border-radius:20px;
+}
+
+p{
+  color:black;
+  word-spacing:10px;
+  font-variant:small-caps;
+  font-size:20px;
+  font-family:"Playwrite DK Uloopet Guides", cursive;
+}
+
+.more_about_cartoon{
+  color:#000E14;
+  font-size:18px;
+}
+
+#cartoon_name{
+ text-decoration: underline;
+  font-size:20px;
+}
+
+
+img{
+  height:150px;
+}
+
+button{
+  border-radius:20px;
+  color:red;
+}
